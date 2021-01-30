@@ -2,7 +2,7 @@
 Running the Project Locally
 First, clone the repository to your local machine:
 
-git clone https://github.com/rhegisan/testproject.git
+git clonehttps://github.com/rhegisan/Portfolio-Django-Bootstrap5.git
 Install the requirements:
 
 pip install -r requirements.txt
