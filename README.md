@@ -2,7 +2,7 @@
 Running the Project Locally
 First, clone the repository to your local machine:
 
-git clone https://github.com/sibtc/django-upload-example.git
+git clone https://github.com/rhegisan/testproject.git
 Install the requirements:
 
 pip install -r requirements.txt
